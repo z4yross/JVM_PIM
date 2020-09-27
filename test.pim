@@ -1,0 +1,19 @@
+CargarValor 0,1023
+Almacenar 0,1023
+
+CargarValor 0,1023
+Almacenar 0,1022
+
+Cargar 0,1023
+Cargar 1,1022
+
+Mult 0,1
+Almacenar 0,1023
+
+SaltarSiDes 11
+
+CargarValor 0,1
+Almacenar 0,1023
+
+imprimir 1023
+Parar
